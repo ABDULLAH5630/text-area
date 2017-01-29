@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background: black;
+    color: red;
+    padding-top: 50px;
+}
+
+#input-area{
+    color: black;
+    height: 600px;
+    width: 100%;
+    padding-bottom: 50px;
+    background: gold;
+}
+
+textarea{
+    width: 80%;
+    height: 150px;
+    margin: 10px auto;
+    box-shadow: 2px 2px 1px;
+}
+
+.result{
+    color: black;
+    text-shadow: 2px 2px 1px;
+    margin-top: 40px;
+}
+
+.remain{
+    color: black;
+    text-shadow: 2px 2px 1px;
+    margin-top: 40px;
+}
+
+
+.lal{
+    color: red;
+    font-size: 40px;
+    text-shadow: 2px 2px 1px;
+    margin-top: 40px;
+}
+
+
+.shobuj{
+    color: green;
+    text-shadow: 2px 2px 1px;
+    margin-top: 40px;
+}
+
+
+#other-box{
+    background: green;
+    height: 200px;
+}
